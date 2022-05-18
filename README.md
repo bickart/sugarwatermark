@@ -1,6 +1,6 @@
 # Sugar Developer Watermark
 
-A module loadable package which provides a developer with the ability to add a watermark to the Sugar
+A module loadable package which provides a developer with the ability to add a watermark to Sugar
 
 ![Sugar Developer Watermark](assets/images/watermark.png)
 
